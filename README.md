@@ -1,4 +1,4 @@
-#A CS STUDENT#
+# A CS STUDENT
 - 👋 Hi, I’m @stephenzhang0529
 - 🤓 Currently learning **Cpp** and **Matlab**
 - 😍 Fascinated with **Badminton** and **Marathon**
