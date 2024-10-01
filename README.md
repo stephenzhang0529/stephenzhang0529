@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @stephenzhang0529
 - 👀 I’m interested in AI 
-- 🌱 I’m currently learning Cpp and Matlab
-- 📫 Contact me with stephenzhang0529@gmail.com
+- 🌱 I’m currently learning **Cpp** and **Matlab**
+- Fascinated with **Badminton** and **Marathon**
+- 📫 Contact me with _stephenzhang0529@gmail.com_
 
 <!---
 stephenzhang0529/stephenzhang0529 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
