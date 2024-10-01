@@ -1,5 +1,5 @@
+#A CS STUDENT
 - 👋 Hi, I’m @stephenzhang0529
-- 👀 I’m interested in AI 
 - 🤓 Currently learning **Cpp** and **Matlab**
 - 😍 Fascinated with **Badminton** and **Marathon**
 - 📫 Contact me with _stephenzhang0529@gmail.com_
