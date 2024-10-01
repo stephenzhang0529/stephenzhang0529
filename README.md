@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stephenzhang0529
 - 👀 I’m interested in AI 
-- 🌱 I’m currently learning **Cpp** and **Matlab**
-- Fascinated with **Badminton** and **Marathon**
+- 🤓 I’m currently learning **Cpp** and **Matlab**
+- 😍 Fascinated with **Badminton** and **Marathon**
 - 📫 Contact me with _stephenzhang0529@gmail.com_
 
 <!---
