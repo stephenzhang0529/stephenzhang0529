@@ -4,8 +4,8 @@
 - 🤩 Fascinated with **Badminton** and **Marathon**
 - 📫 Contact me with _stephenzhang0529@gmail.com_
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/stephenzhang0529/count.svg) visitor,thank you!✌️
-
+You are my ![Visitor Count](https://profile-counter.glitch.me/stephenzhang0529/count.svg) visitor,Thank you!✌️
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 
