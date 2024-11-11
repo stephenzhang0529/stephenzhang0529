@@ -1,10 +1,10 @@
 # A CS STUDENT
 - 👋 Hi, I’m @stephenzhang0529
 - 🤓 Currently learning **Cpp** and **Matlab**
-- 😍 Fascinated with **Badminton** and **Marathon**
+- 🤩 Fascinated with **Badminton** and **Marathon**
 - 📫 Contact me with _stephenzhang0529@gmail.com_
 
-![Visitor Count](https://profile-counter.glitch.me/stephenzhang0529/count.svg)
+You are my ![Visitor Count](https://profile-counter.glitch.me/stephenzhang0529/count.svg) visitor,thank you!✌️
 
 
 
