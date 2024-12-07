@@ -1,6 +1,6 @@
 # A CS STUDENT
 - 👋 Hi, I’m @stephenzhang0529
-- 🤓 Currently learning **Cpp** and **Matlab**
+- 🤓 Currently learning **Cpp** 
 - 🤩 Fascinated with **Badminton** and **Marathon**
 - 📫 Contact me with _stephenzhang0529@gmail.com_
 
